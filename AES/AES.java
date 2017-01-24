@@ -1,3 +1,5 @@
+//http://stackoverflow.com/questions/37877152/java-encryption-using-aes
+
 import java.security.MessageDigest;
 import java.util.Arrays;
 import javax.crypto.KeyGenerator;
